@@ -1,0 +1,143 @@
+.navbar-brand{
+    color: cadetblue;
+}
+
+.nav-link{
+    color: #448688;
+}
+
+.botao-navbar{
+    color: cadetblue;
+    border-color: #7cd1d4;
+}
+
+.botao-navbar:hover{
+    color: rgb(124, 209, 212);
+    background-color: cadetblue;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.card-body{
+    height: 200px;
+}
+
+section.lados{
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.botao-cards{
+    color: white;
+}
+
+.card{
+    color:cadetblue;
+}
+
+.card1{
+    border-color: #df0000;
+}
+ 
+.card2{
+    border-color: #ff9100;
+}
+
+.card2 .btn{
+    background-color: #ff9100;
+}
+ 
+.card3{
+    border-color: #ffc107;
+}
+ 
+.card4{
+    border-color: #198754;
+}
+ 
+.card5{
+    border-color: #0d6efd;
+}
+ 
+.card6{
+    border-color: purple;
+}
+
+.card6 .btn{
+    background-color: purple;
+}
+ 
+.card7{
+    border-color: deeppink;
+}
+
+.card7 .btn{
+    background-color: deeppink;
+}
+ 
+.card8{
+    border-color: #a84d29;
+}
+
+.card8 .btn{
+    background-color: #a84d29;
+}
+ 
+.card9{
+    border-color: black;
+}
+ 
+.card10{
+    border-color: #c5c5c5;
+}
+
+.card10 .btn{
+    background-color: #c5c5c5;
+}
+
+.titulo-vermelho{
+    color:#df0000;
+}
+ 
+.titulo-laranja{
+    color: #ff9100;
+}
+ 
+.titulo-amarelo{
+    color: #ffc107;
+}
+ 
+.titulo-verde{
+    color: #198754;
+}
+ 
+.titulo-azul{
+    color: #0d6efd;
+}
+ 
+.titulo-roxo{
+    color: purple;
+}
+ 
+.titulo-rosa{
+    color: deeppink;
+}
+ 
+.titulo-marrom{
+    color: #7cd1d4;
+}
+ 
+.titulo-preto{
+    color: black;
+}
+ 
+.titulo-branco{
+    color: #c5c5c5;
+}
+ 
+.form-label{
+    color: white;
+}
